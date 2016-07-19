@@ -1,0 +1,37 @@
+body {
+	background-image: url("bckgrnd.jpg");
+}
+
+#player{
+	text-align:center;
+	vertical-align: top;
+}
+#top-btn-wrapper{
+	
+	margin: auto;
+	text-align:center;
+	height: 50px;
+}
+#fight{
+	display: inline-block;
+	width: 100px;
+}
+.fight:hover input{
+	color:red;
+}
+
+#flee{
+	display: inline-block;
+	width: 100px;
+}
+
+#game{
+	text-align: center;
+
+}
+
+#bottom-btn-wrapper{
+	text-align: center;
+	padding-top: 30px;
+
+}
